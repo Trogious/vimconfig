@@ -35,4 +35,4 @@ map <F4> :%s/^[[:space:]\t]*\*.*\n\\|^[[:space:]\t]*\/\*.*\n\\|[[:space:]\t]*\/\
 
 map <silent> <C-b> :%s/[\t ]\+$//<CR>
 
-
+colorscheme wombat
